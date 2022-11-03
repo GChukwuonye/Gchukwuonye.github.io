@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : https://twitter.com/GChukwuonye
 facebook:
-  username               :
+  username               :  
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -67,7 +67,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : Godsgift Chukwuonye
   links: # An array of links to social media profiles
 
 
@@ -81,35 +81,29 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "031e2c0.png"
+  bio              : "PhD Student in Dr Ramirez-Andreotta Environmental Science and Health Risk Lab. Studying environmental contamination and human health risk impacts in environmental justice communities"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Godsgift-Chukwuonye"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/gift.chukwuonye"
   foursquare       :
-  github           : "academicpages"
+  github           : "GChukwuonye"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        :"https://www.instagram.com/gift_chukwuonye/"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
+  linkedin         :"https://www.linkedin.com/in/godsgiftchukwuonye/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8946-8368"
+  twitter          : "Gchukwuonye"
   vine             :
   weibo            :
   xing             :
