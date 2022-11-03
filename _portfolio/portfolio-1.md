@@ -1,6 +1,6 @@
 ---
 title: "Metals in Harvested Rainwater in Environmental Justice Communities: Contaminants Patterns and Stakeholder Impacts"
-excerpt: "As climate change continues to threaten water supply, more people are turning to harvested rainwater as their main source of drinking water. This project aims to understand contaminant levels in harvested rainwater<br/><img src='/images/500x300.png'>"
+excerpt: "As climate change continues to threaten water supply, more people are turning to harvested rainwater as their main source of drinking water. This project aims to understand contaminant levels in harvested rainwater<br/><img src='logo.png'>"
 collection: portfolio
 ---
 
