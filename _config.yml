@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "God'sgift Nkechi Chukwuonye"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "God'sgift Nkechi Chukwuonye"
 description              : &description "Environmental Science PhD student, University of Arizona"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "031e2c0.png"
+  name             : "Godsgift Chukwuonye"
+  avatar           : "QJZYO3W3_400x400.jpg"
   bio              : "PhD Student in Dr Ramirez-Andreotta Environmental Science and Health Risk Lab. Studying environmental contamination and human health risk impacts in environmental justice communities"
   location         : "Location"
   employer         :
